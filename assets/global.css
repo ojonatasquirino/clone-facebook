@@ -1,0 +1,10 @@
+ * {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+  appearance: none;
+  box-sizing: border-box;
+  line-height: 1;
+  font-family: 'Poppins';
+}
